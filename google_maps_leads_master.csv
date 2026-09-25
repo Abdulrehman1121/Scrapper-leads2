@@ -1,6 +1,51 @@
-﻿name,business_owner_name,owner_source,owner_confidence,contact,address,social_media_accounts,website_available,website_link,phone_number,email_id,google_rating,review_count,source_query
-EZ Roof and Construction,,,,+1 832-979-5409,"6613 W Sam Houston Pkwy N, Houston, TX 77041, United States",,Yes,https://ezroofhouston.com/free-inspection/,+1 832-979-5409,,,562,"Roofing Contractor Houston, TX"
-Houston Roofing & Construction,Jacey Gray,"google_ai_overview_regex: ""Houston Roofing & Construction"" owner name",medium,+1 832-237-3737,"11330 West Rd, Houston, TX 77065, United States",,Yes,https://www.houstonroofingonline.com/contact-us/,+1 832-237-3737,,,333,"Roofing Contractor Houston, TX"
-"Precision Roof Crafters, Inc.",Hish Rahman,"google_ai_overview_regex: ""Precision Roof Crafters, Inc."" owner name",medium,+1 713-799-8555,"3919 Jeanetta St, Houston, TX 77063, United States",,Yes,https://booking.setmore.com/scheduleappointment/25b8bc9b-61c8-466e-959e-a4f8a78e8c3f?rwg_token=AE37R_jW84WhyfRw2JUFe7o1CXugyN_E70ih3Vv90kaOXdC_6jHulEquEcj9N8FYT1dH3SUjHHmHWxpwlg6FCylVJwGLoRTDyQ%3D%3D,+1 713-799-8555,info@precisionroofcrafters.com,,437,"Roofing Contractor Houston, TX"
-TX Roofing & Services,,,,+1 713-820-2302,"2855 Mangum Rd Unit B201B, Houston, TX 77092, United States",,Yes,http://www.txroofingandservices.com/,+1 713-820-2302,,,88,"Roofing Contractor Houston, TX"
-Amstill Roofing,Frank Stilley,"google_ai_overview_regex: ""Amstill Roofing"" owner name",medium,+1 281-612-8747,"14125 Memorial Dr, Houston, TX 77079, United States","https://linkedin.com, https://www.facebook.com, https://www.instagram.com",Yes,https://www.amstillroofing.com/about-us/contact-us,+1 281-612-8747,,,1776,"Roofing Contractor Houston, TX"
+﻿Owner Name,Business Name,Owner Phone Number,Website URL,Google Rating,Review Count
+Cindy Parks-Talley,Mr. Handyman of Frisco,+1 972-439-1191,https://book.servicetitan.com/zebvmqds226tijml18zejan4?rwg_token=AE37R_hMpHIXI7-IExmfNTjUMRpVE95oenOkOkXhn-2lmDp2pfX5hIAH3Y72c03Zw9-F9tsTI3WhqUBZiUza35fHckgSnNY0nw%3D%3D,,1438
+LinkedInJOHEL ALVAREZ,AHOD - Handyman Services,+1 469-966-7774,https://www.ahodhandyman.com/,,71
+Rudy The,Excellent American Painting & Handyman Services,(214) 938-1088,https://excellentamericanpainting.com/contact-us/?utm_source=omg-gbp&utm_medium=booking,,96
+Nick Karabetsos,Handyman Home Pros,+1 214-308-9441,https://clienthub.getjobber.com/hubs/a6c35c9e-954f-4049-a8fa-152daf3f19ef/public/requests/4602245/new?rwg_token=AE37R_jv5ws05irmXAWUQFLAo6JWvcyY8Qm8NGY19i3b9S5GAa1RrgYR_8na5FZIiRs-KrmF5V9AHPA3MTvMQYOSznrVxtCC4Q%3D%3D,,390
+Kris Talley,Mr. Handyman of Midwest Collin County,+1 214-387-3474,https://book.servicetitan.com/v1f0drvcfom2v54r6yj4jnfx?rwg_token=AE37R_h6zXfFs4X5WI6svZn2lZsDsVdAtygkVU_0M3H2RG4Xw2vf3T_9R_x8N7b_JwtfXD7wBPLbFo8iueUfnEvkR0Pj2Ehwew%3D%3D,,1505
+LinkedInEarl Swader,Handyman Connection of McKinney and Frisco,+1 972-439-9694,https://clienthub.getjobber.com/hubs/34a5287f-bf2d-4de4-b76c-876b5f7e32e8/public/requests/2501712/new?rwg_token=AE37R_g3skeFFei63HVMDJkef0ZqEYdGaRF4E949Yf7TG6Yo3lk1kwStRMaAExY2xYWZsFAgTRIFru3sXZtedsIKD85-nhQTmw%3D%3D,,221
+Mike Clancy,PEAK Handyman Services,034 (214) 458-9429,http://www.peakhandymanservices.com/,,38
+Ron Little,The Little Handyman,214-305-5348,http://www.thelittlehandyman.com/,,1377
+Katie Whitaker,HandyMa'am,+1 469-693-3860,,,8
+Denys Mandryk,Legacy Handyman,+1 347-586-9556,https://book.housecallpro.com/book/Legacy-handyman/0695d402d5634398bf327976fe3a3a05?v2=true&lead_source=google&merchant_id=a86a6d9e-db3a-4856-b43a-3f56ab8630ef&rwg_token=AE37R_hDy5w7hygSxtf1VuLAtG0I6PSSSIOJ2WlYF4W8wJ3UMp67JaAmiAAFm0EXZDdy5BHMZ-nHZFI1YMqwvpfkRgEmF1mQbQ%3D%3D,,294
+LinkedInAndy Bell,Ace Handyman Services The Colony,+1 972-703-9325,https://www.acehandymanservices.com/offices/the-colony,,214
+LinkedInAR Constructions,Hello Handyman LLC,972.806.1944,http://hellohandymanllc.com/,,37
+David Scott,Mr. Handyman of Plano,+1 972-866-7780,https://www.mrhandyman.com/plano/request-service/?utm_source=gmbappt&utm_medium=organic&utm_campaign=local,,167
+Jason White,S.Handyman,+1 945-289-8844,,,
+Ron Shimek,Handy&Man - Handyman Services,+1 469-452-7454,https://book.housecallpro.com/book/HandyMan/feceed39e4594a2e878b24810acdc9eb?v2=true&lead_source=google&merchant_id=7699af71-573d-4be5-84c9-cb9beb44fa7e&rwg_token=AE37R_h11S7lyCxVWLiWhGdfdlE3w9im00QrCPaLKU_L5NnIhiuGSs6nJ2GOOAd-rAQ4Ub7SCZIuAf2qfpvqjTExlmDkm6YEzA%3D%3D,,86
+ZEHRA JAFFRI,Same Day Handy Man Services,078 469-323-6667,https://samedayhandymanservicetx.com/,,26
+LinkedInIlia Kivenko,Arihandyman service LLC,+1 469-271-4778,,,4
+Steve Tucker,HANDY Premium Handyman Services,+1 972-645-0110,https://clienthub.getjobber.com/hubs/9adc64e8-8cb2-48a4-a145-2f28e57ce04c/public/requests/4597484/new?rwg_token=AE37R_gHZnN5gTsZkn9LvlYcTLybtZNkRCpNdyEUhwOduUgJKyU1oOrLADfs1InF5aC18NrQP8b3yXskp29Nitk82Vp7htXPUA%3D%3D,,51
+Ben Alexander,Hanks Handyman Services,+1 469-304-0535,https://callhanks.com/plano/,,223
+Adrian Gonzales,House Doctors of Denton,+1 940-278-8782,https://housedoctors.com/denton/,,12
+LinkedInMohan Kumar,RaFix Home Repair,+1 469-989-7609,,,28
+HomeWorks Inner,Homeworks Residential Services,+1 214-718-8235,,,2
+Kelli Adams,We Do 4 U Construction Services,(469) 551-9966,https://wedo-4u.com/contact/,,10
+Steven Bowman,All in 1 Handyman,+1 972-897-4755,https://book.housecallpro.com/book/All-In-1-Handyman/23a26e13f3b84873b83ac11a861ef848?v2=true&lead_source=google&merchant_id=3af61104-33ce-4f3e-bffa-8dfc3d78ea91&rwg_token=AE37R_hzl0k-1-3gYlF4hAekgvktRtVImSTFiEI0Y8rcXuk1poS0caskxPW9ydEtAUr8JX3ijkJUgbMfvLZSLTm__2V0jwuNkA%3D%3D,,651
+LinkedInAhsan Khan,Alsolut Handyman & Remodeling,+1 945-202-0415,https://book.housecallpro.com/book/Alsolut-Handyman-and-Remodeling/af8a2f9fa24646fca92e924afb7115f5?v2=true&lead_source=google&merchant_id=670a4646-e5ba-422f-9f74-5120ae33362a&rwg_token=AE37R_je4PocXWBPNmJeNXE3k_rIl-KDLdUZoTyGUfx_0ckpSWsGq1zjAY8qTe0iGWalyhghrMD1RjW1W4BMn40xol8N7-dAig%3D%3D,,128
+Kathy Nevin,IVTD Handy,+1 945-308-6112,https://www.instagram.com/ivtd_handy?igsh=MnZvOHB3MGh4YjYx&utm_source=qr,,
+LinkedInSue Tennison,All Metroplex Handyman,(469) 628-2804,https://allmetroplexhandyman.com/?utm_source=google&utm_medium=organic&utm_campaign=google_business_profile,,35
+LinkedInFarid Rehmani,Remodeling Handyman Services Frisco LLC,(305) 301-5771,http://www.remodelinghandymanservices.com/,,22
+John Guldalian,380 FIX IT Handyman Services,+1 940-343-5125,https://book.housecallpro.com/book/380-FIX-IT-Handyman-Services/1fa3af99bf2946e186573bc743e1027f?v2=true&lead_source=google&merchant_id=524055fb-69f3-48ac-96b8-838523a9c5cc&rwg_token=AE37R_hvuzMz6ksoQO1pYLgcJznRCTg17MFCuWvZQtyCgJmwrbXtM0U3ehAZA_utFjUZXGi5bgPsUIMxtXMiWVm-iPU4bXpBAA%3D%3D,,281
+Ben Alexander,Hank's Handyman Service,(469) 304-0535,http://www.callhanks.com/,,1453
+LinkedInKeta Meggett,TaskBully Pro,+1 914-320-0403,https://clienthub.getjobber.com/client_hubs/116660f0-802f-437b-8426-49dcf011190f/public/work_request/new?source=social_media,,40
+LinkedInBarry Moore,Strictly Painting and Drywall Repairs,469-878-5864,https://www.strictlypaintingdrywall.com/,,130
+Jason Marlar,360 Carpentry DFW,+1 469-406-6044,http://www.360carpentrydfw.com/,,35
+LinkedInRachelle Shields,DPS360 LLC,+1 855-377-3600,https://online-booking.workiz.com/?ac=bd4f53caf740e60277d43731b7c17d87793218068289c60b306fdd0befc04564,,125
+Semi Retired,GEM Handyman Services,+1 214-405-7204,http://www.gemhandymanservices.com/,,7
+Anwaar Sheikh,Estrella handyman services,+1 480 6409422,http://www.estrellahandyman.com/,,
+LinkedInBoris Vaynshteyn,Global Home Repair,+1 972-654-2324,https://ghomerepairs.com/,,13
+Fred Kummer,Adam’s Service List,+1 214-216-1121,,,
+Warren Whitaker,Home Boss Pros,(469) 573-1843,https://www.homebosspros.com/,,8
+NextdoorTed Vinci,Plano Texas Handyman,+1 214-507-3415,https://planotexashandyman.com/contact-us/,,5
+John Hill,John's Handyman Services,(214) 460-9725,http://johnshandymandallas.com/,,11
+LinkedInGreg Jones,Resilient Power & Plumbing,+1 214-778-3899,https://book.housecallpro.com/book/Resilient-Power--Plumbing/351e19c1728c4b5e9fa9c0288adce835?v2=true&lead_source=google&merchant_id=2d502e3b-fb2a-4f0f-9606-467580025614&rwg_token=AE37R_gIoA2wl5qAN17MLSty3vdzJYHgYy2UZMxN_X1htp2lEmrOA9JHd38Lz5hXb3OORM94KMWYXJt1MsS-gTily0gPy8wubw%3D%3D,,799
+John Hill,MTR Contractors,(972)-432-7011,https://www.mtrcontractors.com/booking-contact,,29
+Mike Burns,Minuteman Handyman,+1 469-534-2367,https://clienthub.getjobber.com/hubs/3060d168-79d4-4d4d-8a72-f73c6881b2bc/public/requests/4969311/new?rwg_token=AE37R_jHhSpHmG6OLqB7YSC217VCvarbyeRS8nAQOprmqYT2jcyegSQthL9Xv7lN3Lna1IZZsQmuL0sQW6BJItV2XEApI3BvmA%3D%3D,,17
+Henry Barton,"Handyman services northwest tx, construction company & repair, residential & commercial",+1 972-829-2020,,,
+Mohammad Enayati,FixTman LLC,+1 888-493-0064,https://online-booking.workiz.com/?ac=6a757ade4f25dc10ff54cbb4c807adf078adaf6204de8352ba41cd203447fd00&fromgls=true&rwg_token=AE37R_hKAJpl_dbqIb2GQXnxCAAil9HAB9shXnSCVI7W0X6F4R5mfbjqHifaVoXaPQm0IqVVa9ZVYJTfNq54x2GGzCKA1wTMcw%3D%3D,,2764
+Secure Data,SMARTMOUNT AND SECURE,050 469-978-4901,https://smartmountandsecure.com/services,,156
+Jerry Crespo,Texas Chosen Handyman,(682) 465-8787,http://www.texaschosenhandyman.com/,,164
+James Ray,United Handyman Services,+1 888-885-5579,https://www.facebook.com/share/1D2GRb9Ykm/?mibextid=wwXIfr,,7
+Ahsan Ali,Custom Handymen Services,+1 469-406-6064,http://www.customhandymen.com/,,24

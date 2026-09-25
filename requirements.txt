@@ -3,4 +3,4 @@ pandas
 requests
 beautifulsoup4
 webdriver-manager
-"@ | Out-File -Encoding utf8 requirements.txt
+duckduckgo_search

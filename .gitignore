@@ -1,8 +1,7 @@
-@"
 __pycache__/
 *.pyc
-*.csv
 .env
 venv/
 .venv/
-"@ | Out-File -Encoding utf8 .gitignore
+last_ai_text_*.txt
+last_google_ai_text.txt
